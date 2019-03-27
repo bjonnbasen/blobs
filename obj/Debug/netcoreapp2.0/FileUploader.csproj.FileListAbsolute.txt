@@ -1,0 +1,11 @@
+C:\azure_learning\azure_code\blobs\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\start\bin\Debug\netcoreapp2.0\FileUploader.deps.json
+C:\azure_learning\azure_code\blobs\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\start\bin\Debug\netcoreapp2.0\FileUploader.runtimeconfig.json
+C:\azure_learning\azure_code\blobs\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\start\bin\Debug\netcoreapp2.0\FileUploader.runtimeconfig.dev.json
+C:\azure_learning\azure_code\blobs\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\start\bin\Debug\netcoreapp2.0\FileUploader.dll
+C:\azure_learning\azure_code\blobs\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\start\bin\Debug\netcoreapp2.0\FileUploader.pdb
+C:\azure_learning\azure_code\blobs\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\start\obj\Debug\netcoreapp2.0\FileUploader.csprojAssemblyReference.cache
+C:\azure_learning\azure_code\blobs\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\start\obj\Debug\netcoreapp2.0\FileUploader.csproj.CoreCompileInputs.cache
+C:\azure_learning\azure_code\blobs\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\start\obj\Debug\netcoreapp2.0\FileUploader.AssemblyInfoInputs.cache
+C:\azure_learning\azure_code\blobs\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\start\obj\Debug\netcoreapp2.0\FileUploader.AssemblyInfo.cs
+C:\azure_learning\azure_code\blobs\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\start\obj\Debug\netcoreapp2.0\FileUploader.dll
+C:\azure_learning\azure_code\blobs\mslearn-store-data-in-azure\store-app-data-with-azure-blob-storage\src\start\obj\Debug\netcoreapp2.0\FileUploader.pdb

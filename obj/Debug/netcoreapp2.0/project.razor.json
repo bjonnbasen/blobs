@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\azure_learning\\azure_code\\blobs\\mslearn-store-data-in-azure\\store-app-data-with-azure-blob-storage\\src\\start\\FileUploader.csproj",
+  "TargetFramework": "netcoreapp2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.0",
+    "LanguageVersion": "2.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.0"
+      }
+    ]
+  }
+}
